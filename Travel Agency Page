@@ -1,0 +1,34 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        padding: 20px;
+    }
+    h1, h2 {
+        color: #2c3e50;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    a {
+        text-decoration: none;
+        color: #2980b9;
+    }
+    figure {
+        margin: 20px 0;
+    }
+    img {
+        width: 100%;
+        max-width: 400px;
+        display: block;
+        border-radius: 8px;
+    }
+    figcaption {
+        text-align: center;
+        font-style: italic;
+    }
+</style>
