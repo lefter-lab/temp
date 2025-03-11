@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Classic Pancakes Recipe</title>
+</head>
+<body>
+    <h1>Classic Pancakes</h1>
+    
+    <p>These homemade classic pancakes are fluffy, delicious, and easy to make. Perfect for breakfast or brunch!</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+        <li>1 cup all-purpose flour</li>
+        <li>2 tablespoons sugar</li>
+        <li>1 teaspoon baking powder</li>
+        <li>1/2 teaspoon salt</li>
+        <li>1 cup milk</li>
+        <li>1 egg</li>
+        <li>2 tablespoons melted butter</li>
+        <li>1 teaspoon vanilla extract</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+        <li>In a bowl, whisk together flour, sugar, baking powder, and salt.</li>
+        <li>In another bowl, whisk together milk, egg, melted butter, and vanilla extract.</li>
+        <li>Gradually add the wet ingredients to the dry ingredients and stir until combined.</li>
+        <li>Heat a non-stick pan over medium heat and lightly grease it with butter or oil.</li>
+        <li>Pour batter onto the pan and cook until bubbles form on the surface, then flip and cook the other side.</li>
+        <li>Repeat for the remaining batter and serve warm with syrup and toppings of choice.</li>
+    </ol>
+
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A stack of delicious pancakes with syrup drizzling down.">
+</body>
+</html>
